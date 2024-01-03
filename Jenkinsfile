@@ -1,4 +1,4 @@
-def imageNam="visse0001/frontend"
+def imageName="visse0001/frontend"
 def dockerTag=""
 def dockerRegistry=""
 def registryCredentials="dockerhub"
